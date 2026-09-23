@@ -3,6 +3,8 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Equipment;
+use app\Models\Student;
 use Illuminate\Database\Eloquent\Model;
 use Carbon\Carbon;
 
